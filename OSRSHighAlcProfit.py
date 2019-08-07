@@ -22,7 +22,7 @@ def run_again():
 		print('Have a good day, goodbye!')
 	else:
 		print('Please type a single lowercase "y" for yes or "n" for no.')
-		run_again()
+		main()
 			
 	
 	
