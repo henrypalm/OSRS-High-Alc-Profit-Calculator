@@ -1,5 +1,5 @@
 # OSRS-High-Alc-Profit-Calculator
-Calculates how much gp was earned through high alchemy in old school runescape via user defined variables.
+Calculates how much gp was earned through high alchemy in old school runescape via user defined variables while stating what item the calculated data is referring to.
 
 Quick Maths that will be calculated: 
 
