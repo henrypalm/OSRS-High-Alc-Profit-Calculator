@@ -1,8 +1,9 @@
 def main():
 	item_name = input('\nFor refrence purposes, what are you High Alcing? (Press enter to skip)\nEnter here: ')
+	cost_Of_Nature_Rune = int(input('What is the cost of the Nature Runes used at time of purchase?\n(Average price of Nature Runes are 210)\nEnter here: '))
 	cost_of_item = int(input('What is the price paid for the item in question?\nEnter here: '))
 	High_Alc_Value = int(input('What is the High Alchemy (High Alc for short) value of the item in question?\nEnter here: '))
-	cost_Of_Nature_Rune = int(input('What is the cost of the Nature Runes used at time of purchase?\n(Average price of Nature Runes are 210)\nEnter here: '))
+	
 
 	volume_Of_Items = int(input('What is the volume of items being High Alced?\nEnter here: '))
 	cost_of_business = cost_of_item + cost_Of_Nature_Rune
